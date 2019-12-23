@@ -1,1 +1,1 @@
-# tudent-Placement-Prediction-using-DECISION-TREE
+# Student-Placement-Prediction-using-DECISION-TREE
